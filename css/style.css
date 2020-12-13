@@ -156,8 +156,9 @@ a {
 
 .form {
   margin-left: auto!important;
-  margin: 20px 0px;
-  height: 550px;
+  margin: 15px 0px;
+  height: auto;
+  max-height: 600px;
 }
 
 .guarantee {
