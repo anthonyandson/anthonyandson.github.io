@@ -155,8 +155,7 @@ a {
 .form {
   margin-left: auto!important;
   margin: 15px 0px;
-  height: auto;
-  max-height: 600px;
+  height: 600px;
 }
 
 .guarantee {
