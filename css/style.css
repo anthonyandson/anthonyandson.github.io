@@ -29,7 +29,6 @@ a {
 #footer {
   background-color: #0f2a44;
   color: white;
-  position: absolute;
   bottom: 0;
   width: 100%;
   height: auto;            /* Footer height */
@@ -155,7 +154,7 @@ a {
 .form {
   margin-left: auto!important;
   margin: 15px 0px;
-  height: 600px;
+  padding: 0px;
 }
 
 .guarantee {
@@ -229,6 +228,7 @@ a {
 .promo {
   background-color: #FFE23F;
   position: relative!important;
+  box-shadow: 2px 3px 7px #5a5a5a;
   height: auto;
 }
 
